@@ -298,12 +298,6 @@ return `*OTHERS*
  • ${prefix}quotesanime
 
 *THANKS TO*
-_> Fatih Arridho_
-_> Rwtone / irfan_
-_> Rimurubotz_
-_> Reihan Arthur_
-_> Yogi-Pw_
-_> My Subscribers_
-_> Lexxy Official_
+_> My God_
 `
 }
